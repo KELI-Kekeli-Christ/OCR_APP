@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="README.md"><b>English</b></a>
+  &nbsp;·&nbsp;
+  <a href="README.fr.md">Français</a>
+  &nbsp;·&nbsp;
+  <a href="README.es.md">Español</a>
+</p>
+
 # OCR — Scanner de documents IA
 
 Application mobile Flutter de reconnaissance optique de caractères alimentée par **EasyOCR** (local, GPU) et optionnellement **DeepSeek Vision** (API cloud). Backend FastAPI Python.
